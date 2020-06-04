@@ -90,8 +90,9 @@ namespace RedditDownloader
                     if (post.Thumbnail == null) continue;
                     
                     var prm = new Program();
-                    
-                    Task t = new Task(() => { prm.DownloadImageTask(post.Url.AbsoluteUri); });
+                    Task t = new Task(() => { 
+                        prm.DownloadImageTask(post.Url.AbsoluteUri, out var wasEmpty); 
+                        });
                     t.Start();
                 }
             });
@@ -115,21 +116,30 @@ namespace RedditDownloader
         }
 
         #region ImageDownloadTask
-        public Task DownloadImageTask(string imageUrl)
+        public Task DownloadImageTask(string imageUrl, out bool wasEmpty)
         {
             
             using (var webClient = new WebClient())
             {
                 try
                 {
+                    wasEmpty = false;
                     var imageNumber = Guid.NewGuid();
                     webClient.DownloadFileAsync(new Uri(imageUrl), DownloadDir + "\\" + imageNumber + ".png");
+                    FileInfo fi = new FileInfo(DownloadDir + "\\" + imageNumber + ".png");
+                    var size = fi.Length;
+                    if (size <= 0)
+                    {
+                        wasEmpty = true;
+                        fi.Delete();
+                    }
                     WorkLeft--;
                     return Task.FromResult(0);
                 }
                 catch (Exception ex)
                 {
                     Console.WriteLine(ex.Message);
+                    wasEmpty = true;
                     return Task.FromResult(1);
                 }
             }
