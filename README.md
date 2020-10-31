@@ -5,7 +5,7 @@ CHANGELOG:
 
 BEFORE YOU START:
 ==================================================
-You **SHOULD** not use this software to copy and distrubute Images from Reddit. I do not suppor this, the only reason I created this bot is to automatically download images for neural networks from Reddit to speed the process up. The EXE is self contained and does not require anything else to run. If you use this for any purposes that may be mellicous its purely your doing and I'm not responsible for what is done with this software. Also this software is free and probably updated if people seem to show interest. I thought about a UI version maybe?! 
+You **SHOULD** not use this software to copy and distribute Images from Reddit. I do not support this. The reason I created this bot is to automatically download images for neural networks from Reddit to speed the process up. The EXE is self-contained and does not require anything else to run. If you use this for any purposes that may be malicious it's purely your doing and I'm not responsible for what is done with this software.
 
 If any questions arise feel free to ask me on Twitter @LeechFilcher.
 
