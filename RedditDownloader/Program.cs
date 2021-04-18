@@ -139,8 +139,10 @@ namespace RedditDownloader
             {
                 if (post.NSFW && !AllowNsfw) return;
                 if (post.Thumbnail == null) return;
+                if (!post.Url.ToString().Contains(".png") && !post.Url.ToString().Contains(".jpg") &&
+                    !post.Url.ToString().Contains(".gif")) return;
 
-                DownloadImage(post.Thumbnail.ToString(), out var wasEmpty);
+                DownloadImage(post.Url.ToString(), out var wasEmpty);
 
             });
 
