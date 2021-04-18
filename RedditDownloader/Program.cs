@@ -33,7 +33,7 @@ namespace RedditDownloader
             //Check if NSFW Images are allowed.
             while (true)
             {
-                Console.WriteLine("Do you want to verify images are douplicates or not or do you want to go streight up to training?");
+                Console.WriteLine("Do you want to download Images tagged NSFW Images?");
                 var key = Console.ReadKey();
                 switch (key.Key)
                 {

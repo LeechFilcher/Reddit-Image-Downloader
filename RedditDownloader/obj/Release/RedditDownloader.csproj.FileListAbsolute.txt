@@ -26,3 +26,11 @@ C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\o
 C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\obj\Release\RedditDownloader.csproj.Fody.CopyLocal.cache
 C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\obj\Release\RedditDownloader.exe
 C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\obj\Release\RedditDownloader.pdb
+I:\Git\Reddit-Image-Downloader\RedditDownloader\bin\Release\RedditDownloader.exe.config
+I:\Git\Reddit-Image-Downloader\RedditDownloader\bin\Release\RedditDownloader.exe
+I:\Git\Reddit-Image-Downloader\RedditDownloader\bin\Release\RedditDownloader.pdb
+I:\Git\Reddit-Image-Downloader\RedditDownloader\obj\Release\RedditDownloader.csprojAssemblyReference.cache
+I:\Git\Reddit-Image-Downloader\RedditDownloader\obj\Release\RedditDownloader.csproj.CoreCompileInputs.cache
+I:\Git\Reddit-Image-Downloader\RedditDownloader\obj\Release\RedditDownloader.csproj.Fody.CopyLocal.cache
+I:\Git\Reddit-Image-Downloader\RedditDownloader\obj\Release\RedditDownloader.exe
+I:\Git\Reddit-Image-Downloader\RedditDownloader\obj\Release\RedditDownloader.pdb

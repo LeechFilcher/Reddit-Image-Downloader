@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lukas Duerr\\Downloads\\Reddit-Image-Downloader-master\\RedditDownloader\\RedditDownloader.csproj",
+      "projectUniqueName": "I:\\Git\\Reddit-Image-Downloader\\RedditDownloader\\RedditDownloader.csproj",
       "projectName": "RedditDownloader",
-      "projectPath": "C:\\Users\\Lukas Duerr\\Downloads\\Reddit-Image-Downloader-master\\RedditDownloader\\RedditDownloader.csproj",
+      "projectPath": "I:\\Git\\Reddit-Image-Downloader\\RedditDownloader\\RedditDownloader.csproj",
       "packagesPath": "E:\\Nuget\\Packages",
-      "outputPath": "C:\\Users\\Lukas Duerr\\Downloads\\Reddit-Image-Downloader-master\\RedditDownloader\\obj\\",
+      "outputPath": "I:\\Git\\Reddit-Image-Downloader\\RedditDownloader\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
