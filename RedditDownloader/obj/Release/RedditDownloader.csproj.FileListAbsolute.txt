@@ -19,3 +19,10 @@ C:\Users\Lukas.Duerr\source\repos\Reddit Image Downloader\RedditDownloader\obj\R
 C:\Users\Lukas.Duerr\source\repos\Reddit Image Downloader\RedditDownloader\obj\Release\RedditDownloader.csproj.CopyComplete
 C:\Users\Lukas.Duerr\source\repos\Reddit Image Downloader\RedditDownloader\obj\Release\RedditDownloader.exe
 C:\Users\Lukas.Duerr\source\repos\Reddit Image Downloader\RedditDownloader\obj\Release\RedditDownloader.pdb
+C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\bin\Release\RedditDownloader.exe.config
+C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\bin\Release\RedditDownloader.exe
+C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\bin\Release\RedditDownloader.pdb
+C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\obj\Release\RedditDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\obj\Release\RedditDownloader.csproj.Fody.CopyLocal.cache
+C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\obj\Release\RedditDownloader.exe
+C:\Users\Lukas Duerr\Downloads\Reddit-Image-Downloader-master\RedditDownloader\obj\Release\RedditDownloader.pdb
